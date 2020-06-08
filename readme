@@ -6,6 +6,7 @@ Find the 2 images with my settings, which finally worked for me; no further tabs
 
 Notes:
 The 'Displayname' and 'Account' are two times the same phonenumber, which you want to use (typically one out of the three phone numbers you got from Telekom).
+Note the international format.
 In my case, the 'Password' was not the given one from Telekom, but the one I had chosen before.
 Use 'Zugangsnummer' as part of the Authentication Usernamne, which forms that eMail as 'Authetication Username'.
 Ignore the 'Anschlusskennung' as it is not used nor required here, nor the 'Mitbenutzernummer'. 
