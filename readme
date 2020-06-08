@@ -1,3 +1,5 @@
+Quick setup of a snom300 with Telekom as Registrar
+
 The best I found was the following:
 https://telekomhilft.telekom.de/t5/Telefonie-Internet/VoIP-Desaster-geloest/td-p/2373435
 But this took me quite a while to get it successfully applied to my snom300 desk phone.
@@ -5,7 +7,7 @@ But this took me quite a while to get it successfully applied to my snom300 desk
 Find the 2 images with my settings, which finally worked for me; no further tabs changed.
 
 Notes:
-The 'Displayname' and 'Account' are two times the same phonenumber, which you want to use (typically one out of the three phone numbers you got from Telekom).
+The 'Displayname' and 'Account' are two times the same phonenumber, which you want to use (e.g. typically one out of the three phone numbers you got from Telekom).
 Note the international format.
 In my case, the 'Password' was not the given one from Telekom, but the one I had chosen before.
 Use 'Zugangsnummer' as part of the Authentication Usernamne, which forms that eMail as 'Authetication Username'.
